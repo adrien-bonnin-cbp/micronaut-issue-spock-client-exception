@@ -1,0 +1,1 @@
+# micronaut-issue-spock-client-exception
